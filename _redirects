@@ -1,2 +1,5 @@
 /about/*  /about/dk/:splat  302!  Country=dk
 /about/*  /about/dk/:splat  302!  Language=da
+
+/about/*  /about/ua/:splat  302!  Country=ua
+/about/*  /about/ua/:splat  302!  Language=uk
